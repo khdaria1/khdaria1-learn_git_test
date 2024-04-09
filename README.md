@@ -1,1 +1,3 @@
-# khdaria1-learn_git_test
+# learn_git
+
+ver 0.0
